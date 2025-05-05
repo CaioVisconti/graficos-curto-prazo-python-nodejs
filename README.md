@@ -1,5 +1,3 @@
-# graficos-curto-prazo-python-nodejs
-
 # Criação de gráficos a partir do Python em uma página html de um servidor Node.JS
 
 ## Para a execução desse código foi preciso a utilização das seguintes bibliotecas: 
